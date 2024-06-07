@@ -1,0 +1,200 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.perant h1 {
+    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+    font-size: 30px;
+}
+
+.perant p {
+    font-size: 25px;
+}
+
+ul {
+    list-style-type: none
+}
+
+.p1 {
+    margin-top: 10px;
+
+}
+
+
+ul li a {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 25px;
+    border-right: 2px solid black;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+
+}
+
+li {
+    display: inline;
+}
+
+.child li a {
+    color: black;
+
+
+}
+
+li a:hover {
+
+    color: aliceblue;
+}
+
+.perant {
+    width: 100%;
+    background-image: url(images/FivePark_Downtown_View.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 48vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+
+}
+
+.perant h1,
+p {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 13px;
+    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+
+}
+
+.child {
+    padding: 20px;
+    background-image: linear-gradient(white, darkgrey);
+
+
+}
+
+.send {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+
+
+
+}
+
+.send p {
+    margin-bottom: 20px;
+
+}
+
+.paragraph p,
+h4 {
+    margin-left: 40px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+
+}
+
+
+form input {
+
+    margin-bottom: 10px;
+
+}
+
+.image img {
+    display: block;
+    width: 850px;
+    height: 700px;
+    margin: auto;
+    margin-bottom: 40px;
+
+}
+
+.Pre {
+    margin-left: 20px;
+    margin-bottom: 30px;
+
+
+}
+
+.Pre p {
+    display: inline;
+    font-size: 30px;
+    margin-left: 10px;
+    font-size: 25px;
+    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+
+
+}
+
+.Projects a {
+    text-decoration: none;
+    color: black;
+}
+
+.Projects a:hover {
+    color: gray;
+}
+
+
+
+
+.Projects {
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+    display: flex;
+    flex-wrap: wrap;
+
+
+
+}
+
+.img2 {
+    display: block;
+}
+
+.img1 {
+    width: 33.3333%;
+    text-align: center;
+}
+
+.RAUL1 {}
+
+.RAUL2 img {
+    width: 30%;
+    margin-bottom: 15px;
+    margin-top: 25px;
+}
+
+.RAUL2 {
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
+
+.copy {
+    margin-top: 30px;
+}
+
+.logo img {
+
+
+    width: 60%;
+
+}
+
+.pra1 {
+    margin-left: 20px 30px;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Century Gothic', Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+}
